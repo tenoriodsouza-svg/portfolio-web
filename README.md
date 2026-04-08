@@ -46,7 +46,7 @@ Durante o desenvolvimento deste projeto, pude reforçar conceitos importantes co
 
 ## 🖼️ Preview do projeto
 
-![Preview do portfólio](./assets/preview (2).png)
+![Preview do portfólio](./assets/preview.png)
 
 ---
 
