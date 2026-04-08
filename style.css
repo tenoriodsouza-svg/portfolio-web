@@ -231,4 +231,14 @@ footer {
   .skills-grid {
     grid-template-columns: 1fr;
   }
+  
+}
+a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #333;
+}
+
+i {
+  margin-right: 5px;
 }
