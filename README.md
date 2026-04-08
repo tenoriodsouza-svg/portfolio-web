@@ -40,6 +40,7 @@ Durante o desenvolvimento deste projeto, pude reforçar conceitos importantes co
 📦 portfolio-web
 ┣ 📄 index.html
 ┣ 📄 style.css
+┣ 📄 readme.md
 ┗ 📁 assets
 
 ---
