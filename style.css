@@ -19,6 +19,7 @@ body {
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--light-color);
+  padding-top: 80px;
 }
 
 .container {
@@ -212,6 +213,10 @@ footer {
 
 /* Responsividade */
 @media (max-width: 768px) {
+  body {
+    padding-top: 140px;
+  }
+
   .hero-content {
     flex-direction: column;
     text-align: center;
